@@ -1,0 +1,39 @@
+type: GenericSmelter
+name: Szafirowa huta
+description: Wytwarza szafir
+liquidCapacity: 50
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 7
+  items: {
+    items: [
+      krysztal/5
+      surge-alloy/2
+      titanium/3
+    ]
+  }
+  liquid: {
+    liquid: cryofluid
+    amount: 0.5
+  }
+}
+requirements: [
+  thorium/350
+  titanium/400
+  silicon/400
+  graphite/500
+  lead/700
+  copper/700
+  krysztal/250
+  surge-alloy/100
+]
+category: crafting
+research: krysztalowa-huta
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: szafir/1
