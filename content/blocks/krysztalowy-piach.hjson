@@ -1,0 +1,5 @@
+type: floor
+name: Kryształowy proch
+itemDrop: krysztalowy-proch
+variants: 3
+playerUnmineable: true
