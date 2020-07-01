@@ -1,0 +1,5 @@
+type: material
+name: Electrum
+description: Valuable, red mineral.
+cost: 2.5
+color: ad0000

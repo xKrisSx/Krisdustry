@@ -1,0 +1,5 @@
+type: material
+name: Amethyst
+description: Valuable, purple mineral.
+cost: 2.5
+color: 970fff

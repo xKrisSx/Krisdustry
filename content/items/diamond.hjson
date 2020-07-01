@@ -1,0 +1,5 @@
+type: material
+name: Diamond
+description: Valuable, hard mineral
+cost: 2.5
+color: 52fff9
