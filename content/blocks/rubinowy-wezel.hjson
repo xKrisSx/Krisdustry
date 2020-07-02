@@ -1,4 +1,4 @@
-type: SingleTypeGenerator
+type: Node
 name: Rubinowy węzeł
 description: Większy zasięg, więcej połączeń. Lepszy pod każdym względem
 size: 1
@@ -11,5 +11,5 @@ requirements: [
   titanium/3
   lead/5
 ]
-category: nodes
+category: power
 research: power-node-large

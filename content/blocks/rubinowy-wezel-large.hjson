@@ -1,4 +1,4 @@
-type: SingleTypeGenerator
+type: Node
 name: Rubinowy węzeł
 description: Jeszcze większy zasięg, jeszcze więcej połączeń
 size: 2
@@ -12,5 +12,5 @@ requirements: [
   lead/10
   thorium/10
 ]
-category: nodes
+category: power
 research: rubinowy-wezel
