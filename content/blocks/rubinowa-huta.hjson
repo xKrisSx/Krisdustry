@@ -14,7 +14,7 @@ consumes: {
     items: [
       krysztal/5
       surge-alloy/2
-      blast-compound/3
+      czerwony-kamien/3
     ]
   }
   liquid: {

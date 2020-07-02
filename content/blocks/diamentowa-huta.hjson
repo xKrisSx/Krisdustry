@@ -14,7 +14,7 @@ consumes: {
     items: [
       krysztal/5
       surge-alloy/2
-      graphite/3
+      blekitny-kamien/3
     ]
   }
   liquid: {

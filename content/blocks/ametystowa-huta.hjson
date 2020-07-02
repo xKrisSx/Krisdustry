@@ -14,7 +14,7 @@ consumes: {
     items: [
       krysztal/5
       surge-alloy/2
-      spore-pod/3
+      fioletowy-kamien/3
     ]
   }
   liquid: {

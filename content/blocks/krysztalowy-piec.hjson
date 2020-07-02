@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Kryształowy piec
+description: Topi kryształy do kryształowej cieczy
+liquidCapacity: 30
+outputLiquid: {
+  liquid: krysztalowa-ciecz
+  amount: 5
+}
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 10
+updateEffect: smeltsmoke
+consumes: {
+  power: 3
+  item: krysztal
+}
+requirements: [
+  krysztal/100
+  copper/300
+  silicon/250
+  graphite/250
+  metaglass/300
+]
+category: crafting
+research: cryofluid-mixer
+idleSound: respawning
+idleSoundVolume: 0.5
