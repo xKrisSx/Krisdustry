@@ -1,0 +1,12 @@
+name: Diamentowa ściana
+description: Bardzo wytrzymała, diamentowa ściana
+type: Wall
+health: 1300
+size: 1
+requirements: [
+  diament/8
+  szafirowe-szklo/4
+  krysztal/2
+]
+category: defense
+research: surge-wall

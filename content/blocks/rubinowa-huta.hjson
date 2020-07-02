@@ -3,6 +3,7 @@ name: Rubinowa huta
 description: Wytwarza rubin
 liquidCapacity: 50
 size: 3
+health: 320
 hasPower: true
 hasLiquids: true
 hasItems: true

@@ -6,6 +6,7 @@ size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
+health: 320
 craftTime: 60
 updateEffect: smeltsmoke
 consumes: {

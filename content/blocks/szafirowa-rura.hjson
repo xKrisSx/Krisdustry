@@ -4,6 +4,7 @@ description: Ulepszona wersja rury pulsacyjnej
 size: 1
 rotate: true
 liquidCapacity: 26
+health: 400
 solid: false
 floating: true
 hasLiquids: true

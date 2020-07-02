@@ -2,6 +2,7 @@ type: GenericCrafter
 name: Kryształowy piec
 description: Topi kryształy do kryształowej cieczy
 liquidCapacity: 30
+health: 160
 outputLiquid: {
   liquid: krysztalowa-ciecz
   amount: 5

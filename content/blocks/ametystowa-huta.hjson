@@ -2,6 +2,7 @@ type: GenericSmelter
 name: Ametystowa huta
 description: Wytwarza ametyst
 liquidCapacity: 50
+health: 320
 size: 3
 hasPower: true
 hasLiquids: true

@@ -3,6 +3,7 @@ name: Huta szafirowego szkła
 description: Wytwarza szafirowe szkło
 liquidCapacity: 20
 size: 2
+health: 200
 hasPower: true
 hasLiquids: true
 hasItems: true

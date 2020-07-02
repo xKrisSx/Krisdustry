@@ -1,0 +1,12 @@
+name: Duża diamentowa ściana
+description: Większy odpowiednik diamentowej ściany
+type: Wall
+health: 5200
+size: 2
+requirements: [
+  diament/32
+  szafirowe-szklo/16
+  krysztal/8
+]
+category: defense
+research: diamentowa-sciana

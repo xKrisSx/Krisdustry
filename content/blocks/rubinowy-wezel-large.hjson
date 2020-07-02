@@ -1,0 +1,16 @@
+type: SingleTypeGenerator
+name: Rubinowy węzeł
+description: Jeszcze większy zasięg, jeszcze więcej połączeń
+size: 2
+health: 280
+hasPower: true
+maxNodes: 60
+laserRange: 14
+requirements: [
+  rubin/15
+  titanium/10
+  lead/10
+  thorium/10
+]
+category: nodes
+research: rubinowy-wezel

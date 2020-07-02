@@ -2,8 +2,9 @@ type: SingleTypeGenerator
 name: Rubinowy panel słoneczny
 description: Znacznie efektywniejszy od swojego zwykłego zamiennika
 size: 3
+health: 500
 hasPower: true
-hasItems: true
+hasItems: false
 powerProduction: 4
 requirements: [
   thorium/500

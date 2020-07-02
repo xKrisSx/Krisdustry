@@ -3,6 +3,7 @@ name: Diamentowa huta
 description: Wytwarza diament
 liquidCapacity: 50
 size: 3
+health: 320
 hasPower: true
 hasLiquids: true
 hasItems: true
