@@ -5,7 +5,7 @@ size: 1
 health: 70
 hasPower: true
 maxNodes: 40
-laserRange: 10
+laserRange: 12
 requirements: [
   rubin/3
   titanium/3

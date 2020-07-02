@@ -1,6 +1,7 @@
 name: Kryształowa ciecz
 description: Stopione kryształy
 temperature: 0
+heatCapacity: 1.2
 viscosity: 0.1
 effect: freezing
 color: c4fff9

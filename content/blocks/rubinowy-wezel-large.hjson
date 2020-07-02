@@ -1,11 +1,11 @@
 type: PowerNode
-name: Rubinowy węzeł
+name: Duży rubinowy węzeł
 description: Jeszcze większy zasięg, jeszcze więcej połączeń
 size: 2
 health: 280
 hasPower: true
 maxNodes: 60
-laserRange: 14
+laserRange: 17.5
 requirements: [
   rubin/15
   titanium/10
