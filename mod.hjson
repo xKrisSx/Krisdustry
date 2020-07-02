@@ -1,6 +1,6 @@
 name: "Krisdustry"
-displayName: "[lightgray]K[gray]r[darkgray]i[black]s [white]dustry"
+displayName: "[red]K[orange]r[gold]i[yellow]s[white]dustry"
 author: "Kris"
 description: "Pierwszy mod, głównie pod naukę, jak to działa"
-version: "0.1"
+version: "1.0"
 minGameVersion: "103"

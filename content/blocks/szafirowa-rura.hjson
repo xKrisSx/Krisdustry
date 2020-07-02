@@ -1,0 +1,18 @@
+type: Conduit
+name: Szafirowa rura
+description: Ulepszona wersja rury pulsacyjnej
+size: 1
+rotate: true
+liquidCapacity: 26
+solid: false
+floating: true
+hasLiquids: true
+leakResistance: 10
+requirements: [
+  szafir/1
+  szafirowe-szklo/2
+  krysztal/1
+  titanium/2
+]
+category: liquid
+research: pulse-conduit
