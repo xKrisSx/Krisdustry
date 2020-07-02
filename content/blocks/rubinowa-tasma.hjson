@@ -1,0 +1,12 @@
+type: Conveyor
+name: Rubinowy przenośnik
+description: Twardszy, lepszy, szybszy
+requirements: [
+  rubin/3
+  titanium/3
+  lead/3
+]
+category: distribution
+speed: 0.16
+itemCapacity: 4
+research: titanium-conveyor
