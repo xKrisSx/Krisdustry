@@ -28,7 +28,7 @@ requirements: [
   metaglass/500
 ]
 category: crafting
-research: klin
+research: kiln
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: szafirowe-szklo/4

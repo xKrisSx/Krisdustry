@@ -23,6 +23,6 @@ requirements: [
   metaglass/300
 ]
 category: crafting
-research: cryofluid-mixer
+research: cryofluidmixer
 idleSound: respawning
 idleSoundVolume: 0.5
