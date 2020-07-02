@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 name: Fabryka fioletowego kamienia
 description: Miesza piasek i wodę w celu pozyskania fioletowego kamienia
 liquidCapacity: 10
@@ -6,7 +6,7 @@ size: 1
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 6
+craftTime: 15
 updateEffect: smeltsmoke
 consumes: {
   power: 0.75

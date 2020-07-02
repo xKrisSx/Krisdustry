@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 name: Fabryka błękitnego kamienia
 description: Miesza piasek i wodę w celu pozyskania błękitnego kamienia
 liquidCapacity: 10
@@ -6,7 +6,7 @@ size: 1
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 6
+craftTime: 15
 updateEffect: smeltsmoke
 consumes: {
   power: 0.75

@@ -4,7 +4,6 @@ description: Znacznie efektywniejszy od swojego zwykłego zamiennika
 size: 3
 hasPower: true
 hasItems: true
-itemDuration: 30
 powerProduction: 4
 requirements: [
   thorium/500
