@@ -1,0 +1,17 @@
+type: SingleTypeGenerator
+name: Rubinowy panel słoneczny
+description: Znacznie efektywniejszy od swojego zwykłego zamiennika
+size: 3
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 4
+requirements: [
+  thorium/500
+  titanium/500
+  silicon/500
+  rubin/125
+  phase-fabric/200
+]
+category: power
+research: large-solar-panel

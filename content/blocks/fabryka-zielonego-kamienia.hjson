@@ -1,0 +1,32 @@
+type: GenericSmelter
+name: Fabryka zielonego kamienia
+description: Miesza piasek i wodę w celu pozyskania zielonego kamienia
+liquidCapacity: 10
+size: 1
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 6
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.75
+  items: {
+    items: [
+      sand/1
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 0.1
+  }
+}
+requirements: [
+  copper/160
+  lead/140
+  titanium/100
+]
+category: crafting
+research: pulverizer
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: zielony-kamien/1
