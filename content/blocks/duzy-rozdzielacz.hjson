@@ -1,0 +1,11 @@
+type: Router
+name: Duży rozdzielacz
+description: Największy rozdzielacz
+size: 3
+health: 380
+requirements: [
+  copper/26
+  lead/16
+]
+category: distribution
+research: distributor

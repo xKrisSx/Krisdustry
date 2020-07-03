@@ -1,0 +1,11 @@
+type: Router
+name: Duży tytanowy rozdzielacz
+description: Największy, wzmocniony tytanem rozdzielacz
+size: 3
+health: 840
+requirements: [
+  titanium/26
+  lead/16
+]
+category: distribution
+research: duzy-rozdzielacz

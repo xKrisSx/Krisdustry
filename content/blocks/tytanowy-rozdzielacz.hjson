@@ -8,5 +8,4 @@ requirements: [
   lead/3
 ]
 category: distribution
-itemCapacity: 3
 research: router

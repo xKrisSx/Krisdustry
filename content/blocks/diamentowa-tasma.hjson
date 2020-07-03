@@ -1,0 +1,14 @@
+type: ArmoredConveyor
+name: Diamentowy przenośnik
+description: Wzmocniona diamentem wersja rubinowego przenośnika
+size: 1
+health: 660
+requirements: [
+  rubin/3
+  diament/3
+  krysztal/3
+]
+category: distribution
+speed: 0.145
+itemCapacity: 4
+research: rubinowa-tasma

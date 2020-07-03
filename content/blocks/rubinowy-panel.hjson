@@ -5,7 +5,7 @@ size: 3
 health: 500
 hasPower: true
 hasItems: false
-powerProduction: 5
+powerProduction: 8
 requirements: [
   thorium/500
   titanium/500

@@ -1,0 +1,19 @@
+type: ArmoredConduit
+name: Diamentowa rura
+description: Utwardzana diamentem wersja szafirowej rury
+size: 1
+rotate: true
+liquidCapacity: 26
+health: 660
+solid: false
+floating: true
+hasLiquids: true
+leakResistance: 10
+requirements: [
+  szafir/2
+  szafirowe-szklo/2
+  krysztal/3
+  diament/3
+]
+category: liquid
+research: szafirowa-rura
