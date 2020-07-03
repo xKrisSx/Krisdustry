@@ -1,0 +1,12 @@
+type: Router
+name: Tytanowy rozdzielacz
+description: Wytrzymały rozdzielacz
+size: 1
+health: 200
+requirements: [
+  titanium/5
+  lead/3
+]
+category: distribution
+itemCapacity: 3
+research: router

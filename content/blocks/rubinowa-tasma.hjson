@@ -1,16 +1,14 @@
 type: Conveyor
 name: Rubinowy przenośnik
 description: Twardszy, lepszy, szybszy
-hasPower: true
-consumes: {
-  power: 0.1
-}
+size: 1
+health: 400
 requirements: [
   rubin/3
   titanium/3
   lead/3
 ]
 category: distribution
-speed: 0.14
+speed: 0.145
 itemCapacity: 4
 research: titanium-conveyor

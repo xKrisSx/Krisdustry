@@ -1,0 +1,13 @@
+type: Router
+name: Rubinowy rozdzielacz
+description: Bardzo wytrzymały rozdzielacz
+size: 1
+health: 450
+requirements: [
+  rubin/5
+  titanium/5
+  lead/3
+]
+category: distribution
+itemCapacity: 6
+research: tytanowy-rozdzielacz

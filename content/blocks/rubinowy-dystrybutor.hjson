@@ -1,0 +1,13 @@
+type: Router
+name: Rubinowy dystrybutor
+description: Większy odpowiednik rubinowego rozdzielacza
+size: 2
+health: 720
+requirements: [
+  rubin/10
+  titanium/10
+  lead/8
+]
+category: distribution
+itemCapacity: 6
+research: tytanowy-dystrybutor

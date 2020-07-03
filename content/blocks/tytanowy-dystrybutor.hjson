@@ -1,0 +1,12 @@
+type: Router
+name: Tytanowy dystrybutor
+description: Większy odpowiednik tytanowego rozdzielacza
+size: 2
+health: 440
+requirements: [
+  titanium/10
+  lead/8
+]
+category: distribution
+itemCapacity: 6
+research: distributor
