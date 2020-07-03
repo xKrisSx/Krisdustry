@@ -6,7 +6,7 @@ size: 2
 health: 500
 hasPower: true
 reload: 200
-range: 60
+range: 120
 consumes: {
   power: 3
 }
