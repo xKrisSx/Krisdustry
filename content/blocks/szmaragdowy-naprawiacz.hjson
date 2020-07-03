@@ -19,5 +19,5 @@ healPercent: 18
 phaseBoost: 16
 phaseRangeBoost: 80
 useTime: 400
-category: other
+category: effect
 research: mend-projector
