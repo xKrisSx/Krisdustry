@@ -1,0 +1,23 @@
+type: MendProjector
+name: Szmaragdowy naprawiacz
+color: 84f491
+phase: ffd59e
+size: 2
+health: 500
+hasPower: true
+reload: 200
+range: 60
+consumes: {
+  power: 3
+}
+requirements: [
+  szmaragd/60
+  krysztal/30
+  surge-alloy/20
+]
+healPercent: 18
+phaseBoost: 16
+phaseRangeBoost: 80
+useTime: 400
+category: defense
+research: mend-projector
