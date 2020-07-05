@@ -2,6 +2,7 @@ type: Router
 name: Tytanowy rozdzielacz
 description: Wytrzymały rozdzielacz
 size: 1
+instantTransfer: true
 health: 200
 requirements: [
   titanium/5

@@ -3,6 +3,7 @@ name: Duży rozdzielacz
 description: Największy rozdzielacz
 size: 3
 health: 380
+instantTransfer: true
 requirements: [
   copper/26
   lead/16

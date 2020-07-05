@@ -3,6 +3,7 @@ name: Duży rubinowy rozdzielacz
 description: Największy, wzmocniony rubinem rozdzielacz
 size: 3
 health: 1440
+instantTransfer: true
 requirements: [
   rubin/26
   titanium/26

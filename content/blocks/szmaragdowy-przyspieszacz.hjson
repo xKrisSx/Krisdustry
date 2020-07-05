@@ -1,0 +1,28 @@
+type: MendProjector
+name: Szmaragdowy przyśpieszacz
+color: 84f491
+phase: ffd59e
+size: 2
+health: 620
+hasPower: true
+reload: 60
+range: 120
+consumes: {
+  power: 6
+  booster: {
+    items: [
+      szmaragd/1
+    ]
+  }
+}
+requirements: [
+  szmaragd/90
+  krysztal/45
+  phase-fabric/50
+]
+speedBoost: 2.25
+speedBoostPhase: 1.25
+phaseRangeBoost: 60
+useTime: 400
+category: defense
+research: overdrive-projector

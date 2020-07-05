@@ -2,6 +2,7 @@ type: Router
 name: Duży tytanowy rozdzielacz
 description: Największy, wzmocniony tytanem rozdzielacz
 size: 3
+instantTransfer: true
 health: 840
 requirements: [
   titanium/26
