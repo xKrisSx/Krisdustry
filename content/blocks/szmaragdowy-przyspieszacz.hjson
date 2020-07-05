@@ -9,7 +9,7 @@ reload: 60
 range: 120
 consumes: {
   power: 6
-  booster: {
+  items: {
     items: [
       szmaragd/1
     ]
