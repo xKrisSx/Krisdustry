@@ -13,6 +13,7 @@ consumes: {
     items: [
       szmaragd/1
     ]
+    booster: true
   }
 }
 requirements: [
