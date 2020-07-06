@@ -8,13 +8,13 @@ health: 440
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 90
+craftTime: 45
 updateEffect: smeltsmoke
 consumes: {
   power: 5
   items: {
     items: [
-      krysztalowy-proch/15
+      krysztalowy-proch/10
     ]
   }
   liquid: {
