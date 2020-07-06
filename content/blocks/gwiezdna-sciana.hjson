@@ -1,0 +1,14 @@
+name: Gwiezdna ściana
+description: Mała, gwiezdna ściana
+type: SurgeWall
+lightningChance: 0.15
+lightningDamage: 42
+lightningLength: 21
+health: 2100
+size: 1
+requirements: [
+  gwiezdny-odlamek/8
+  krysztal/4
+]
+category: defense
+research: diamentowa-sciana

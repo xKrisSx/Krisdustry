@@ -1,0 +1,14 @@
+name: Duża gwiezdna ściana
+description: Duża wersja najlepszej, gwiezdnej ściany
+type: SurgeWall
+lightningChance: 0.15
+lightningDamage: 54
+lightningLength: 28
+health: 8400
+size: 2
+requirements: [
+  gwiezdny-odlamek/32
+  krysztal/16
+]
+category: defense
+research: gwiezdna-sciana

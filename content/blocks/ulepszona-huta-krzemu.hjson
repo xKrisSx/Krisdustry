@@ -1,0 +1,35 @@
+type: GenericSmelter
+name: Ulepszona huta krzemu
+description: Wytwarza krzem znacznie szybciej, niż swój zwykły odpowiednik
+liquidCapacity: 10
+size: 4
+health: 220
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 20
+updateEffect: smeltsmoke
+consumes: {
+  power: 5
+  items: {
+    items: [
+      sand/5
+      coal/1
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 0.5
+  }
+}
+requirements: [
+  silicon/250
+  graphite/200
+  titanium/400
+  thorium/150
+]
+category: crafting
+research: silicon-smelter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: silicon/4

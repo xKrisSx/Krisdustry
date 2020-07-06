@@ -1,0 +1,41 @@
+type: GenericCrafter
+name: Gwiezdna fabryka
+description: Wytwarza gwiezdne odłamki ze wszystkich minerałów
+liquidCapacity: 30
+health: 400
+size: 3
+hasPower: true
+hasLiquids: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 20
+  items: {
+    items: [
+      rubin/2
+      szafir/2
+      diament/2
+      szmaragd/2
+      ametyst/2
+    ]
+  }
+  liquid: {
+    liquid: krysztalowa-ciecz
+    amount: 0.5
+  }
+}
+requirements: [
+  krysztal/300
+  rubin/250
+  szmaragd/250
+  szafir/250
+  diament/250
+  ametyst/250
+  thorium/1000
+  surge-alloy/750
+]
+category: crafting
+research: krysztalowa-huta
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: gwiezdny-odlamek/3
