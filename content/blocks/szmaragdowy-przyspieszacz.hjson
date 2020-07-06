@@ -9,12 +9,6 @@ reload: 60
 range: 120
 consumes: {
   power: 6
-  items: {
-    items: [
-      szmaragd/1
-    ]
-    booster: true
-  }
 }
 requirements: [
   szmaragd/90
@@ -22,8 +16,8 @@ requirements: [
   phase-fabric/50
 ]
 speedBoost: 2.25
-speedBoostPhase: 1.25
-phaseRangeBoost: 60
+speedBoostPhase: 0
+phaseRangeBoost: 0
 useTime: 400
-category: defense
+category: effect
 research: overdrive-projector
