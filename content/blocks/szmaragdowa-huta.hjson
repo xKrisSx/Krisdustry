@@ -7,7 +7,7 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 health: 320
-craftTime: 6
+craftTime: 40
 updateEffect: smeltsmoke
 consumes: {
   power: 7
@@ -37,4 +37,4 @@ category: crafting
 research: krysztalowa-huta
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: szmaragd/1
+outputItem: szmaragd/2
