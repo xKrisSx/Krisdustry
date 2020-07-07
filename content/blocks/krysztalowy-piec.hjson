@@ -5,7 +5,7 @@ liquidCapacity: 30
 health: 160
 outputLiquid: {
   liquid: krysztalowa-ciecz
-  amount: 5
+  amount: 25
 }
 size: 2
 hasPower: true
