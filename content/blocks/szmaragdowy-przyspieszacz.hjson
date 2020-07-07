@@ -8,7 +8,14 @@ hasPower: true
 reload: 60
 range: 120
 consumes: {
-  power: 6
+  power: 10
+  items: {
+    items: [
+      gwiezdny-odlamek/1
+    ]
+    booster: true
+    optional: true
+  }
 }
 requirements: [
   szmaragd/90
@@ -16,8 +23,8 @@ requirements: [
   phase-fabric/50
 ]
 speedBoost: 2.25
-speedBoostPhase: 0
-phaseRangeBoost: 0
-useTime: 400
+speedBoostPhase: 1.25
+phaseRangeBoost: 80
+useTime: 600
 category: effect
 research: overdrive-projector

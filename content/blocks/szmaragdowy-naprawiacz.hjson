@@ -11,9 +11,10 @@ consumes: {
   power: 3
   items: {
     items: [
-      szmaragd/1
+      gwiezdny-odlamek/1
     ]
     booster: true
+    optional: true
   }
 }
 requirements: [
@@ -22,6 +23,8 @@ requirements: [
   surge-alloy/20
 ]
 healPercent: 18
-useTime: 400
+useTime: 600
+phaseBoost: 12
+phaseRangeBoost: 80
 category: effect
 research: mend-projector
