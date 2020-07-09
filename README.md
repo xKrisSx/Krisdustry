@@ -11,8 +11,6 @@ Note:
 # Todo:
 - English language support [!]
 - Emerald units
-- Emerald overdrive projector
 - Amethyst turrets
-- Ultimate resource (including walls, turrets, units and more)
 - More units
 - Custom campaign maps
