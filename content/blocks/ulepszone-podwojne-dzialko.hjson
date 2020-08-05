@@ -23,14 +23,14 @@ ammo: {
     ammoMultiplier: 6
   }
   pyratite: {
-    type: standardIncendiary
+    incendAmount: 1
     speed: 1.0
     damage: 15
     reloadMultiplier: 1.0
     ammoMultiplier: 5
   }
   silicon: {
-    type: standardHoming
+    homingPower: 0.1
     speed: 1.0
     damage: 15
     reloadMultiplier: 1.0
