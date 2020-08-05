@@ -37,3 +37,10 @@ ammo: {
     ammoMultiplier: 5
   }
 }
+requirements: [
+  copper/60
+  graphite/30
+  titanium/10
+]
+category: turret
+research: duo
