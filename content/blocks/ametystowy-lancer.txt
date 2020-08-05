@@ -1,3 +1,5 @@
+# TODO
+
 type: chargeTurret
 name: Ametystowy Lancer
 description: Znacznie mocniejsza wersja Lancera
