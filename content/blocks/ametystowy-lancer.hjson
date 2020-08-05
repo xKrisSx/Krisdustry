@@ -1,0 +1,18 @@
+type: powerTurret
+name: Ametystowy Lancer
+description: Znacznie mocniejsza wersja Lancera
+targetAir: false
+targetGround: true
+health: 2100
+size: 2
+reload: 90
+powerUse: 5
+range: 200
+requirements: [
+  ametyst/40
+  plastanium/75
+  thorium/100
+  silicon/100
+]
+category: turret
+research: lancer
