@@ -1,4 +1,4 @@
-type: powerTurret
+type: chargeTurret
 name: Ametystowy Lancer
 description: Znacznie mocniejsza wersja Lancera
 targetAir: false
