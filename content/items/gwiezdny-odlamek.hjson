@@ -3,3 +3,6 @@ name: Odłamek gwiezdny
 description: Najcenniejszy materiał
 cost: 3
 color: 030030
+flammability: 1
+radioactivity: 1
+explosiveness: 1
