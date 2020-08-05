@@ -9,6 +9,10 @@ reload: 90
 powerUse: 5
 range: 200
 shootType: lancerLaser
+shootSound: excalibur-shoot
+chargeEffects: 10
+chargeMaxDelay: 35
+chargeTime: 60
 requirements: [
   ametyst/40
   plastanium/75
