@@ -1,6 +1,6 @@
 name: "Krisdustry"
 displayName: "[red]K[orange]r[gold]i[yellow]s[white]dustry"
 author: "Kris"
-description: "First mod, mostly to learn, how it works.\nCurrently adds new resources, like Diamond, sapphire, ruby, colorful stones, some new conveyors, routers, walls etc, just try it"
-version: "0.1"
+description: "[red]!! WIP !!\n[white]Currently adds one turret, some conveyors, walls, some new resources.\n[gold]Just try it!"
+version: "0.2"
 minGameVersion: "103"
