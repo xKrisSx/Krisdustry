@@ -8,7 +8,8 @@ size: 2
 reload: 90
 powerUse: 5
 range: 200
-shootSound: excalibur-shoot
+shootType: lancerLaser
+shootSound: laser
 chargeEffects: 10
 chargeMaxDelay: 35
 chargeTime: 60
