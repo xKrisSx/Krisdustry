@@ -8,6 +8,7 @@ size: 2
 reload: 90
 powerUse: 5
 range: 200
+shootType: lancerLaser
 requirements: [
   ametyst/40
   plastanium/75
