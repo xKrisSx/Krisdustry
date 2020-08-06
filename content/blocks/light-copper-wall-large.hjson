@@ -1,0 +1,10 @@
+name: Lekka, duża miedziana ściana
+description: Większa, lżejsza, bardziej podatna na uszkodzenia ściana
+type: Wall
+health: 1200
+size: 2
+requirements: [
+  copper/16
+]
+category: defense
+research: light-copper-wall
