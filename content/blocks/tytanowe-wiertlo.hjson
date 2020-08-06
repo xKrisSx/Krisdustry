@@ -10,5 +10,13 @@ requirements: [
   copper/20
   lead/20
 ]
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: true
+    optional: true
+  }
+}
 category: production
 research: pneumatic-drill
