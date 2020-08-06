@@ -1,0 +1,14 @@
+name: Tytanowe wiertło
+description: Mocniejsze od pneumatycznego, lecz nadal słabsze od laserowego
+type: Drill
+size: 2
+tier: 1
+drillTime: 360
+requirements: [
+  titanium/12
+  graphite/14
+  copper/20
+  lead/20
+]
+category: production
+research: pneumatic-drill
