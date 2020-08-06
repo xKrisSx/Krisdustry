@@ -13,7 +13,7 @@ requirements: [
 consumes: {
   liquid: {
     liquid: water
-    amount: 0.1
+    amount: 0.075
     booster: true
     optional: true
   }
