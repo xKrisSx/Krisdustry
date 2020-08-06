@@ -1,0 +1,11 @@
+name: Obsydianowa ściana
+description: Super-wytrzymała ściana
+type: Wall
+health: 1850
+size: 1
+requirements: [
+  obsidian/6
+  diament/4
+]
+category: defense
+research: diamentowa-sciana

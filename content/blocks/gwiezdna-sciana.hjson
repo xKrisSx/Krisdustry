@@ -4,7 +4,7 @@ type: SurgeWall
 lightningChance: 0.15
 lightningDamage: 42
 lightningLength: 21
-health: 2100
+health: 2250
 size: 1
 requirements: [
   gwiezdny-odlamek/8

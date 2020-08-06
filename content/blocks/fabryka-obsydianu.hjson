@@ -1,0 +1,37 @@
+type: GenericSmelter
+name: Ametystowa huta
+description: Wytwarza ametyst
+liquidCapacity: 50
+health: 360
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 120
+updateEffect: smeltsmoke
+consumes: {
+  power: 10
+  items: {
+    items: [
+      pyratite/3
+      blast-compound/1
+      silicon/4
+    ]
+  }
+  liquid: {
+    liquid: cryofluid
+    amount: 0.5
+  }
+}
+requirements: [
+  thorium/200
+  silicon/500
+  titanium/500
+  lead/250
+  diament/150
+]
+category: crafting
+research: krysztalowa-huta
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: obsidian/2

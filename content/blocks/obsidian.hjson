@@ -1,0 +1,5 @@
+type: floor
+name: Obsydian
+itemDrop: obsidian
+variants: 4
+playerUnmineable: true

@@ -1,0 +1,11 @@
+name: Duża obsydianowa ściana
+description: Duża, super-wytrzymała ściana
+type: Wall
+health: 7400
+size: 2
+requirements: [
+  obsidian/24
+  diament/16
+]
+category: defense
+research: obsidian-wall

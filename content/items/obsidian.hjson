@@ -1,0 +1,6 @@
+type: resource
+name: Obsydian
+description: Bardzo wytrzymały i twardy materiał
+color: 1c0736
+hardness: 6
+cost: 5
