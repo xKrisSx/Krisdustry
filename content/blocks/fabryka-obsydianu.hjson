@@ -1,7 +1,7 @@
 type: GenericSmelter
-name: Ametystowa huta
-description: Wytwarza ametyst
-liquidCapacity: 50
+name: Fabryka obsydianu
+description: Wytwarza obsydian
+liquidCapacity: 20
 health: 360
 size: 2
 hasPower: true
@@ -20,7 +20,7 @@ consumes: {
   }
   liquid: {
     liquid: cryofluid
-    amount: 0.5
+    amount: 0.25
   }
 }
 requirements: [
