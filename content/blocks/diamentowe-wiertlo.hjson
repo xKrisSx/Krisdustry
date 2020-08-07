@@ -1,0 +1,24 @@
+name: Diamentowe wiertło
+description: Najpotężniejsze wiertło, zdolne do wydobycia wszystkiego
+type: Drill
+size: 5
+tier: 20
+rotateSpeed: 5
+drillTime: 210
+requirements: [
+  diament/90
+  titanium/175
+  krysztal/100
+  thorium/175
+]
+consumes: {
+  power: 5
+  liquid: {
+    liquid: water
+    amount: 0.2
+    booster: true
+    optional: true
+  }
+}
+category: production
+research: airblast-drill
