@@ -25,6 +25,6 @@ requirements: [
 speedBoost: 2.25
 speedBoostPhase: 1.25
 phaseRangeBoost: 80
-useTime: 600
+useTime: 599
 category: effect
 research: overdrive-projector
