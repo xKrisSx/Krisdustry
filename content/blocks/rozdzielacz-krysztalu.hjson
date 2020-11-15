@@ -29,15 +29,16 @@ research: krysztalowa-huta
 idleSound: respawning
 idleSoundVolume: 0.5
 results: [
-    ametyst/1
-    rubin/1
-    szafir/1
-    szmaragd/1
-    diament/1
+    ametyst/3
+    rubin/3
+    szafir/3
+    szmaragd/3
+    diament/3
     silicon/6
-    niebieski-kamien/2
-    czerwony-kamien/2
-    zielony-kamien/2
-    fioletowy-kamien/2
-    blekitny-kamien/2
+    graphite/6
+    niebieski-kamien/1
+    czerwony-kamien/1
+    zielony-kamien/1
+    fioletowy-kamien/1
+    blekitny-kamien/1
 ]
