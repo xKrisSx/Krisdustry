@@ -11,7 +11,7 @@ requirements: [
   krysztal/125
   thorium/175
   ametyst/150
-  obsydian/250
+  obsidian/250
 ]
 consumes: {
   power: 8
