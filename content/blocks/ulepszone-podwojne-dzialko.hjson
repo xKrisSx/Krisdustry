@@ -12,35 +12,35 @@ range: 120
 ammo: {
   copper: {
     speed: 4.0
-    damage: 11
+    damage: 12
     reloadMultiplier: 1
     ammoMultiplier: 3
   }
   graphite: {
     speed: 3.0
-    damage: 22
+    damage: 24
     reloadMultiplier: 1.2
     ammoMultiplier: 6
   }
   pyratite: {
     incendAmount: 1
     speed: 4.0
-    damage: 15
+    damage: 17
     reloadMultiplier: 1.0
     ammoMultiplier: 5
   }
   silicon: {
     homingPower: 0.1
     speed: 4.0
-    damage: 15
+    damage: 17
     reloadMultiplier: 1.0
     ammoMultiplier: 5
   }
 }
 requirements: [
-  copper/60
-  graphite/30
-  titanium/10
+  copper/50
+  graphite/40
+  titanium/15
 ]
 category: turret
 research: duo

@@ -1,0 +1,44 @@
+type: Separator
+name: Rozdzielacz kryształu
+description: Oddziela resztki kryształów z cieczy
+liquidCapacity: 30
+health: 360
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 90
+updateEffect: smeltsmoke
+consumes: {
+  power: 6
+  items: {
+    items: [
+      krysztal/5
+      fioletowy-kamien/3
+    ]
+  }
+  liquid: {
+    liquid: cryofluid
+    amount: 0.5
+  }
+}
+requirements: [
+  thorium/450
+  titanium/300
+  silicon/500
+  krysztal/350
+  surge-alloy/225
+  phase-fabric/125
+]
+category: crafting
+research: krysztalowa-huta
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: [
+    ametyst/1
+    rubin/1
+    szafir/1
+    szmaragd/1
+    diament/1
+    silicon/4
+]

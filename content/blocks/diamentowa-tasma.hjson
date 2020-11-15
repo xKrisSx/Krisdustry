@@ -9,6 +9,6 @@ requirements: [
   krysztal/3
 ]
 category: distribution
-speed: 0.145
+speed: 0.13
 itemCapacity: 4
 research: rubinowa-tasma

@@ -1,0 +1,26 @@
+name: Plazmowe wiertło
+description: Najpotężniejsze wiertło, zdolne do wydobycia wszystkiego
+type: Drill
+size: 4
+tier: 20
+rotateSpeed: 7
+drawRim: true
+drillTime: 180
+requirements: [
+  diament/120
+  krysztal/125
+  thorium/175
+  ametyst/150
+  obsydian/250
+]
+consumes: {
+  power: 8
+  liquid: {
+    liquid: water
+    amount: 0.3
+    booster: true
+    optional: true
+  }
+}
+category: production
+research: diamentowe-wiertlo
