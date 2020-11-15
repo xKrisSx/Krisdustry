@@ -7,13 +7,13 @@ size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 90
+craftTime: 120
 updateEffect: smeltsmoke
 consumes: {
-  power: 6
+  power: 10
   liquid: {
     liquid: krysztalowa-ciecz
-    amount: 0.5
+    amount: 0.2
   }
 }
 requirements: [
@@ -34,5 +34,10 @@ results: [
     szafir/1
     szmaragd/1
     diament/1
-    silicon/4
+    silicon/6
+    niebieski-kamien/2
+    czerwony-kamien/2
+    zielony-kamien/2
+    fioletowy-kamien/2
+    blekitny-kamien/2
 ]
