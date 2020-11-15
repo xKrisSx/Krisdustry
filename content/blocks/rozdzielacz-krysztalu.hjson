@@ -34,7 +34,7 @@ category: crafting
 research: krysztalowa-huta
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: [
+results: [
     ametyst/1
     rubin/1
     szafir/1
