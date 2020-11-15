@@ -11,14 +11,8 @@ craftTime: 90
 updateEffect: smeltsmoke
 consumes: {
   power: 6
-  items: {
-    items: [
-      krysztal/5
-      fioletowy-kamien/3
-    ]
-  }
   liquid: {
-    liquid: cryofluid
+    liquid: krysztalowa-ciecz
     amount: 0.5
   }
 }
